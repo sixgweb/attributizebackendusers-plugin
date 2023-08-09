@@ -1,7 +1,7 @@
 {
     "name": "sixgweb/attributizebackendusers-plugin",
     "type": "october-plugin",
-    "description": "No description provided yet...",
+    "description": "Integrates Attributize with Backend Users",
     "require": {
         "composer/installers": "~1.0"
     }
