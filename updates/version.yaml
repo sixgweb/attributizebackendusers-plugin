@@ -1,3 +1,5 @@
 v1.0.1: 
   - First version of AttributizeBackendUsers
   - add_field_values_to_backend_users_table.php
+1.0.2:
+  - update readme
